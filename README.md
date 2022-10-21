@@ -9,4 +9,4 @@ If interested, it is fun to play around with the direction of the edges. If you 
 
 Packages necessary to run the code:
 * NumPy 
-* ScipPy
+* SciPy
