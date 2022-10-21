@@ -8,5 +8,5 @@ I recommend reading the report first. Then, I recommend looking through the "St.
 If interested, it is fun to play around with the direction of the edges. If you swap some of the directions, you may find that the maximum flow changes. 
 
 Packages necessary to run the code:
-- NumPy
+- NumPy <br>
 -ScipPy
