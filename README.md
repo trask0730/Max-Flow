@@ -1,4 +1,4 @@
-# 510-MiniProject1
+# Max Flow Using Linear Programming
 This is a repository for my first mini-project in Math 510: Linear Programming, taught by Henry Adams.
 
 In this repository, you can find 3 files: "REPORT.pdf", "network.pdf", and "StPetersburgToMoscow.ipynb". 
